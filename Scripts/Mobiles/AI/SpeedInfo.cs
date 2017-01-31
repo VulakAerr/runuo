@@ -9,7 +9,7 @@ namespace Server
 	public class SpeedInfo
 	{
 		// Should we use the new method of speeds?
-		private static bool Enabled = true;
+		private static bool Enabled = false;
 
 		private double m_ActiveSpeed;
 		private double m_PassiveSpeed;
